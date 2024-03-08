@@ -1,0 +1,3 @@
+npm install --save-dev chromatic
+
+npx chromatic --project-token=chpt_3759da30b453263
